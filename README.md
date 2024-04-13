@@ -1,2 +1,2 @@
 # Math-Tuition-Website
-I developed this  Static Math Tuition website using HTML, CSS.
+I developed this Math Tuition static website using HTML, CSS.
